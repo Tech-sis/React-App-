@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/amreactapp/static/css/main.503490a4.chunk.css",
+    "main.js": "/amreactapp/static/js/main.d0666fbd.chunk.js",
+    "main.js.map": "/amreactapp/static/js/main.d0666fbd.chunk.js.map",
+    "runtime-main.js": "/amreactapp/static/js/runtime-main.75013fa7.js",
+    "runtime-main.js.map": "/amreactapp/static/js/runtime-main.75013fa7.js.map",
+    "static/js/2.409c385b.chunk.js": "/amreactapp/static/js/2.409c385b.chunk.js",
+    "static/js/2.409c385b.chunk.js.map": "/amreactapp/static/js/2.409c385b.chunk.js.map",
+    "static/js/3.de9b393a.chunk.js": "/amreactapp/static/js/3.de9b393a.chunk.js",
+    "static/js/3.de9b393a.chunk.js.map": "/amreactapp/static/js/3.de9b393a.chunk.js.map",
+    "index.html": "/amreactapp/index.html",
+    "static/css/main.503490a4.chunk.css.map": "/amreactapp/static/css/main.503490a4.chunk.css.map",
+    "static/js/2.409c385b.chunk.js.LICENSE.txt": "/amreactapp/static/js/2.409c385b.chunk.js.LICENSE.txt",
+    "static/media/image-header-desktop.72d6e2a0.jpg": "/amreactapp/static/media/image-header-desktop.72d6e2a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75013fa7.js",
+    "static/js/2.409c385b.chunk.js",
+    "static/css/main.503490a4.chunk.css",
+    "static/js/main.d0666fbd.chunk.js"
+  ]
+}
